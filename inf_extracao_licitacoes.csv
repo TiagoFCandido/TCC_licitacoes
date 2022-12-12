@@ -1,9 +1,2 @@
 UASG,Status da requisição,Url        ,Tempo inicio,Tempo fim,Tempo da requisição medido (s),Tempo da requisição método (s)
-154628,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=154628            ,11/12/2022 23:02:50,11/12/2022 23:03:06,0:00:15.358035,15.307076
-927843,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=927843            ,11/12/2022 23:03:18,11/12/2022 23:03:38,0:00:19.981035,19.882217
-925445,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=925445            ,11/12/2022 23:04:32,11/12/2022 23:04:45,0:00:13.097221,13.048812
-926418,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=926418            ,11/12/2022 23:04:57,11/12/2022 23:05:06,0:00:08.625128,8.57883
-200360,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=200360            ,11/12/2022 23:06:00,11/12/2022 23:06:12,0:00:11.653665,11.594857
-200392,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=200392            ,11/12/2022 23:06:24,11/12/2022 23:06:34,0:00:09.883257,9.826346
-250016,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=250016            ,11/12/2022 23:06:46,11/12/2022 23:06:53,0:00:06.783331,6.728084
-927634,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=927634            ,11/12/2022 23:07:05,11/12/2022 23:07:13,0:00:08.195960,8.145996
+154628,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=154628            ,12/12/2022 02:34:30,12/12/2022 02:34:34,0:00:04.253945,4.183108
