@@ -3195,3 +3195,5 @@ Skipping line 311: expected 20 fields, saw 21
 Data e hora do inicio da requisição: 12/12/2022 08:20:06
 Data e hora do fim da requisição: 12/12/2022 08:20:13
 Uasg: 323031,Url: https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=323031,Status da requisição: 200            ,Tempo requisição medido (s): 0:00:07.463224, Tempo da requisição método (s): 7.393687
+Data e hora do inicio da requisição: 12/12/2022 08:20:30
+Data e hora do fim da requisição: 12/12/2022 08:20:30
