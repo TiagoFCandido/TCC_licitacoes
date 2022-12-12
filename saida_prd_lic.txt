@@ -3076,3 +3076,42 @@ Data e hora do inicio da requisição: 12/12/2022 08:12:59
 Data e hora do fim da requisição: 12/12/2022 08:12:59
 Data e hora do inicio da requisição: 12/12/2022 08:13:11
 Data e hora do fim da requisição: 12/12/2022 08:13:11
+Skipping line 3: expected 20 fields, saw 21
+Skipping line 4: expected 20 fields, saw 21
+Skipping line 6: expected 20 fields, saw 21
+Skipping line 8: expected 20 fields, saw 21
+Skipping line 9: expected 20 fields, saw 21
+Skipping line 13: expected 20 fields, saw 21
+Skipping line 18: expected 20 fields, saw 21
+Skipping line 19: expected 20 fields, saw 21
+Skipping line 36: expected 20 fields, saw 21
+Skipping line 38: expected 20 fields, saw 21
+Skipping line 39: expected 20 fields, saw 21
+Skipping line 41: expected 20 fields, saw 21
+Skipping line 44: expected 20 fields, saw 21
+Skipping line 45: expected 20 fields, saw 21
+Skipping line 52: expected 20 fields, saw 21
+Skipping line 59: expected 20 fields, saw 21
+Skipping line 61: expected 20 fields, saw 21
+Skipping line 62: expected 20 fields, saw 21
+Skipping line 98: expected 20 fields, saw 21
+Skipping line 101: expected 20 fields, saw 21
+Skipping line 102: expected 20 fields, saw 21
+Skipping line 104: expected 20 fields, saw 21
+Skipping line 106: expected 20 fields, saw 21
+Skipping line 135: expected 20 fields, saw 21
+Skipping line 137: expected 20 fields, saw 21
+Skipping line 139: expected 20 fields, saw 21
+Skipping line 141: expected 20 fields, saw 21
+Skipping line 144: expected 20 fields, saw 21
+Skipping line 146: expected 20 fields, saw 21
+Skipping line 157: expected 20 fields, saw 21
+Skipping line 161: expected 20 fields, saw 21
+Skipping line 183: expected 20 fields, saw 21
+Skipping line 403: expected 20 fields, saw 21
+Skipping line 414: expected 20 fields, saw 21
+Skipping line 477: expected 20 fields, saw 21
+
+Data e hora do inicio da requisição: 12/12/2022 08:13:22
+Data e hora do fim da requisição: 12/12/2022 08:13:26
+Uasg: 443001,Url: https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=443001,Status da requisição: 200            ,Tempo requisição medido (s): 0:00:03.103844, Tempo da requisição método (s): 3.049541
