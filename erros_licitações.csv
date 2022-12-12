@@ -377,3 +377,4 @@ UASG,Erro,Url,Hora da falha
 511666,EXCEPT_TIMEOUT,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=511666,12/12/2022 07:15:48
 510353,EXCEPT_TIMEOUT,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=510353,12/12/2022 07:16:00
 510419,EXCEPT_TIMEOUT,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=510419,12/12/2022 07:16:12
+510015,EXCEPT_TIMEOUT,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=510015,12/12/2022 07:16:24
