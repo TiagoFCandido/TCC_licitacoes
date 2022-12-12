@@ -2706,3 +2706,11 @@ Data e hora do inicio da requisição: 12/12/2022 07:13:00
 Data e hora do fim da requisição: 12/12/2022 07:13:00
 Data e hora do inicio da requisição: 12/12/2022 07:13:12
 Data e hora do fim da requisição: 12/12/2022 07:13:12
+Skipping line 23: expected 20 fields, saw 21
+Skipping line 230: expected 20 fields, saw 21
+Skipping line 337: expected 20 fields, saw 21
+Skipping line 352: expected 20 fields, saw 21
+
+Data e hora do inicio da requisição: 12/12/2022 07:13:24
+Data e hora do fim da requisição: 12/12/2022 07:13:25
+Uasg: 926397,Url: https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=926397,Status da requisição: 200            ,Tempo requisição medido (s): 0:00:00.704415, Tempo da requisição método (s): 0.610104
