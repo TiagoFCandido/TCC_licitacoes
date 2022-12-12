@@ -1,3 +1,4 @@
 UASG,Status da requisição,Url        ,Tempo inicio,Tempo fim,Tempo da requisição medido (s),Tempo da requisição método (s)
 120041,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=120041            ,12/12/2022 03:01:13,12/12/2022 03:01:15,0:00:02.169266,2.119328
 273167,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=273167            ,12/12/2022 03:01:27,12/12/2022 03:01:28,0:00:01.243935,1.22523
+273011,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=273011            ,12/12/2022 03:01:40,12/12/2022 03:01:40,0:00:00.275350,0.259274
