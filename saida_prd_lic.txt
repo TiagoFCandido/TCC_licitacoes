@@ -3683,3 +3683,42 @@ Data e hora do inicio da requisição: 12/12/2022 09:06:43
 Data e hora do fim da requisição: 12/12/2022 09:06:43
 Data e hora do inicio da requisição: 12/12/2022 09:06:55
 Data e hora do fim da requisição: 12/12/2022 09:06:55
+Skipping line 3: expected 20 fields, saw 21
+Skipping line 4: expected 20 fields, saw 21
+Skipping line 112: expected 20 fields, saw 21
+Skipping line 131: expected 20 fields, saw 21
+Skipping line 132: expected 20 fields, saw 21
+Skipping line 134: expected 20 fields, saw 21
+Skipping line 135: expected 20 fields, saw 21
+Skipping line 136: expected 20 fields, saw 21
+Skipping line 137: expected 20 fields, saw 21
+Skipping line 247: expected 20 fields, saw 21
+Skipping line 248: expected 20 fields, saw 21
+Skipping line 250: expected 20 fields, saw 21
+Skipping line 281: expected 20 fields, saw 21
+Skipping line 283: expected 20 fields, saw 21
+Skipping line 315: expected 20 fields, saw 21
+Skipping line 316: expected 20 fields, saw 21
+Skipping line 317: expected 20 fields, saw 21
+Skipping line 318: expected 20 fields, saw 21
+Skipping line 319: expected 20 fields, saw 21
+Skipping line 320: expected 20 fields, saw 21
+Skipping line 322: expected 20 fields, saw 21
+Skipping line 323: expected 20 fields, saw 21
+Skipping line 325: expected 20 fields, saw 21
+Skipping line 327: expected 20 fields, saw 21
+Skipping line 349: expected 20 fields, saw 21
+Skipping line 396: expected 20 fields, saw 21
+Skipping line 397: expected 20 fields, saw 21
+Skipping line 399: expected 20 fields, saw 21
+Skipping line 400: expected 20 fields, saw 21
+Skipping line 421: expected 20 fields, saw 21
+Skipping line 423: expected 20 fields, saw 21
+Skipping line 432: expected 20 fields, saw 21
+Skipping line 433: expected 20 fields, saw 21
+Skipping line 475: expected 20 fields, saw 21
+Skipping line 477: expected 20 fields, saw 21
+
+Data e hora do inicio da requisição: 12/12/2022 09:07:07
+Data e hora do fim da requisição: 12/12/2022 09:07:07
+Uasg: 925574,Url: https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=925574,Status da requisição: 200            ,Tempo requisição medido (s): 0:00:00.841477, Tempo da requisição método (s): 0.800309
