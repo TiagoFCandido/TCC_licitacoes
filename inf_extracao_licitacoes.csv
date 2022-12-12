@@ -451,3 +451,4 @@ UASG,Status da requisição,Url        ,Tempo inicio,Tempo fim,Tempo da requisi�
 928910,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=928910            ,12/12/2022 09:02:08,12/12/2022 09:02:08,0:00:00.149782,0.14334
 925574,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=925574            ,12/12/2022 09:07:07,12/12/2022 09:07:07,0:00:00.841477,0.800309
 926668,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=926668            ,12/12/2022 09:08:02,12/12/2022 09:08:03,0:00:00.914474,0.879449
+926840,200,https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=926840            ,12/12/2022 09:08:43,12/12/2022 09:08:44,0:00:00.748006,0.705592
