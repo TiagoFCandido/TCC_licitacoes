@@ -3589,3 +3589,5 @@ Skipping line 97: expected 20 fields, saw 21
 Data e hora do inicio da requisição: 12/12/2022 08:56:47
 Data e hora do fim da requisição: 12/12/2022 08:56:48
 Uasg: 200247,Url: https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=200247,Status da requisição: 200            ,Tempo requisição medido (s): 0:00:01.189572, Tempo da requisição método (s): 1.145187
+Data e hora do inicio da requisição: 12/12/2022 08:57:05
+Data e hora do fim da requisição: 12/12/2022 08:57:05
