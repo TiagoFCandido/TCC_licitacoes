@@ -329,3 +329,14 @@ Skipping line 171: expected 20 fields, saw 21
 Data e hora do inicio da requisição: 12/12/2022 03:35:46
 Data e hora do fim da requisição: 12/12/2022 03:35:47
 Uasg: 167357,Url: https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=167357,Status da requisição: 200            ,Tempo requisição medido (s): 0:00:00.260465, Tempo da requisição método (s): 0.24458
+Skipping line 5: expected 20 fields, saw 21
+Skipping line 6: expected 20 fields, saw 21
+Skipping line 7: expected 20 fields, saw 21
+Skipping line 8: expected 20 fields, saw 21
+Skipping line 9: expected 20 fields, saw 21
+Skipping line 10: expected 20 fields, saw 21
+Skipping line 11: expected 20 fields, saw 21
+
+Data e hora do inicio da requisição: 12/12/2022 03:35:59
+Data e hora do fim da requisição: 12/12/2022 03:35:59
+Uasg: 167470,Url: https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=167470,Status da requisição: 200            ,Tempo requisição medido (s): 0:00:00.230668, Tempo da requisição método (s): 0.224613
