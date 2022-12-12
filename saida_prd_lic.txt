@@ -1729,3 +1729,4 @@ Uasg: 167404,Url: https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg
 Data e hora do inicio da requisição: 12/12/2022 05:28:43
 Data e hora do fim da requisição: 12/12/2022 05:28:47
 Data e hora do inicio da requisição: 12/12/2022 05:28:59
+Data e hora do inicio da requisição: 12/12/2022 05:29:40
