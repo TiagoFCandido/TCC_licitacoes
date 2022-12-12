@@ -3258,3 +3258,4 @@ Data e hora do inicio da requisição: 12/12/2022 08:32:38
 Data e hora do inicio da requisição: 12/12/2022 08:33:20
 Data e hora do fim da requisição: 12/12/2022 08:33:20
 Uasg: 927012,Url: https://compras.dados.gov.br/licitacoes/v1/licitacoes.csv?uasg=927012,Status da requisição: 200            ,Tempo requisição medido (s): 0:00:00.118842, Tempo da requisição método (s): 0.115307
+Data e hora do inicio da requisição: 12/12/2022 08:33:35
